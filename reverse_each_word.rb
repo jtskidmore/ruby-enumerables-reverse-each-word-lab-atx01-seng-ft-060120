@@ -7,4 +7,6 @@ def reverse_each_word (string)
     new_array2 << element.reverse
   end
   
+  new_array2.join
+  
 end
