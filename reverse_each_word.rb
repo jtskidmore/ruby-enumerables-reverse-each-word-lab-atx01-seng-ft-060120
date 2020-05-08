@@ -8,6 +8,6 @@ def reverse_each_word (string)
     array2 << element.reverse
   end
   
-  array2.join
+  array2.join(' ')
   
 end
